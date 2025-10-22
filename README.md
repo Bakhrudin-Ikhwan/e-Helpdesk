@@ -22,7 +22,7 @@ Sistem ini bertujuan untuk:
 | Database | MySQL |
 | Web Server | XAMPP / Apache |
 | Frontend | HTML, CSS, JavaScript |
-| Report | Export ke PDF & Excel |
+| Report | Export ke Excel dan auto Print |
 
 ---
 
@@ -91,4 +91,5 @@ Distribusi ulang tanpa izin pengembang dilarang.
 Bakhrudin Ikhwan Ansori
 IT Infrastructure Specialist — AL Hikmah IIBS Batu
 📧 Email: [ikhwanaan60@gmail.com]
+
 📅 Tahun: 2025
