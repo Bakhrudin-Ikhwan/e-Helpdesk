@@ -92,4 +92,3 @@ Bakhrudin Ikhwan Ansori
 IT Infrastructure Specialist — AL Hikmah IIBS Batu
 📧 Email: [ikhwanaan60@gmail.com]
 📅 Tahun: 2025
-
